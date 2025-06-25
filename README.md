@@ -1,4 +1,4 @@
-# Career Suite v2 **REVISED PROJECT NAME**
+# Career Suite AI v2 **REVISED PROJECT NAME**
 # Automated Job Application Tracker & Pipeline Manager v2.0
 
 **Author:** Francis John LiButti
